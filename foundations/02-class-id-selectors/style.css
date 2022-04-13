@@ -1,0 +1,21 @@
+.normalClass,
+.specialClass{
+    background-color: rgb(255, 31, 120);
+    font-family: Verdana, DejaVu sans,sans-serif;
+
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+.specialClass{
+    font-size: 24px;
+}
+
+#two{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(20,250,35);
+}
